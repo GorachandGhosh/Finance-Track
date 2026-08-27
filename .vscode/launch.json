@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "fin_track",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fin_track (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "fin_track (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "calendar_agenda-main",
+            "cwd": "dev_lib\\calendar_agenda-main\\calendar_agenda-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "calendar_agenda-main (profile mode)",
+            "cwd": "dev_lib\\calendar_agenda-main\\calendar_agenda-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "calendar_agenda-main (release mode)",
+            "cwd": "dev_lib\\calendar_agenda-main\\calendar_agenda-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
